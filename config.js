@@ -9,8 +9,8 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoTyping = true;                //auto tying by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = true;
@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.Owner = ["2348163717090", "2348163717090"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["2348163717090", "2348163717090"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["2348163717090"];
+global.OwnerName = "𝐈𝐭𝐳 𝐁𝐢𝐧 𝐀𝐥𝐢 ˡᵉᵍᵉⁿᵈ";
+global.BotName = "𝐁𝐈𝐍𝐀𝐋𝐈 𝐌𝐃";
+global.packname = "binali bot";                             //Do not change.
+global.author = "By: alamin";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/HszdT23LQiH97UYmQCp9Zm";
 
 
 //
@@ -41,9 +41,9 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";
-global.reactmoji = "❤️";
-global.themeemoji = "💖";
+global.location = "Katsina state, Nigeria";
+global.reactmoji = "👨‍💻";
+global.themeemoji = "🤖";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/Kai0071";
 global.lolhuman = "KaysaS";
